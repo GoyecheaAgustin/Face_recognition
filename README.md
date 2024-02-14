@@ -1,7 +1,7 @@
-#Proyecto de Reconocimiento Facial
+### Proyecto de Reconocimiento Facial
 Este proyecto contiene una serie de scripts diseñados para capturar imágenes de rostros, entrenar modelos de reconocimiento facial y probar el reconocimiento utilizando diferentes algoritmos.
 
-###Descripción de los Scripts
+## Descripción de los Scripts
 1. capturandorostros.py
 Este script te permite capturar imágenes de rostros desde un video o directamente desde la cámara. Las imágenes se utilizan para crear una base de datos que se empleará para entrenar los modelos de reconocimiento facial.
 
