@@ -1,4 +1,4 @@
-###Proyecto de Reconocimiento Facial
+#Proyecto de Reconocimiento Facial
 Este proyecto contiene una serie de scripts diseñados para capturar imágenes de rostros, entrenar modelos de reconocimiento facial y probar el reconocimiento utilizando diferentes algoritmos.
 
 ###Descripción de los Scripts
