@@ -27,13 +27,13 @@ En primer lugar se exponen los resultados obtenidos para el método eigenfaces t
 
 Según estos resultados pareciera que el algoritmo funciona a la perfección, pero se realizó la misma prueba pero con otro vídeo con el entrenamiento de 10 fotos.
 
-![test](https://github.com/GoyecheaAgustin/Face_recognition/assets/104398552/1232067a-93ce-4118-ac60-f68c1e97414b)
+<img src="https://github.com/GoyecheaAgustin/Face_recognition/assets/104398552/1232067a-93ce-4118-ac60-f68c1e97414b" width="300">
 
 En este caso se identificó un error en la clasificación que generó un resultado incorrecto, está diciendo que Agustin es Sheldon Cooper lo cual, evidentemente, es incorrecto.
 
 Es importante mencionar que los sistemas de reconocimiento facial pueden verse afectados por diversos factores, como la calidad de la imágenes de entrenamiento, la iluminación, la posición de la persona en la imagen, entre otros. A pesar de que se utilizan metodologías rigurosas para minimizar estos errores, es posible que se presenten casos en los que se produzcan falsos positivos (como en este caso) o falsos negativos
 
-![test1](https://github.com/GoyecheaAgustin/Face_recognition/assets/104398552/edc3b910-e99c-4040-a56a-f4f49a0a32b8)
+<img src="https://github.com/GoyecheaAgustin/Face_recognition/assets/104398552/edc3b910-e99c-4040-a56a-f4f49a0a32b8" width="300">
 
 ### Fisherfaces
 Ahora  se exponen los resultados obtenidos para el método fisherfaces trabajando, también, con diferentes bases de datos de 10,100 y 400 imágenes.
