@@ -27,7 +27,7 @@ En primer lugar se exponen los resultados obtenidos para el método eigenfaces t
 
 Según estos resultados pareciera que el algoritmo funciona a la perfección, pero se realizó la misma prueba pero con otro vídeo con el entrenamiento de 10 fotos.
 
-<img src="https://github.com/GoyecheaAgustin/Face_recognition/assets/104398552/1232067a-93ce-4118-ac60-f68c1e97414b" width="300">
+<img src="https://github.com/GoyecheaAgustin/Face_recognition/assets/104398552/1232067a-93ce-4118-ac60-f68c1e97414b" width="400">
 
 En este caso se identificó un error en la clasificación que generó un resultado incorrecto, está diciendo que Agustin es Sheldon Cooper lo cual, evidentemente, es incorrecto.
 
